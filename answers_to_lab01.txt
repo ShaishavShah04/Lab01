@@ -1,0 +1,15 @@
+Q1: https://github.com/ShaishavShah04/Lab01
+
+Q2: 2.25.1
+
+Q3: 2.28.1
+
+Q4: The version of the requests module within the venv is different from the version that is installed globally.
+
+Q5: Code 301 is returned. To get the 200 Status code, you must visit: https://www.google.com/
+
+Q6: I get the code 418. If you curl it, it will send back html with an error message.
+
+Q7: You can see the post data in the output under the "Form Data" header. Furthermore, the REQUEST_METHOD also shows up as POST. POST is good for sending data.
+
+Q8: https://raw.githubusercontent.com/ShaishavShah04/Lab01/master/version_check.py 
